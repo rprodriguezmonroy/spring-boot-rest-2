@@ -9,3 +9,5 @@
     </wls:container-descriptor>
  
 </wls:weblogic-web-app>
+
+<!--- este archivo se ocupa para que se pueda desplegar en weblogic-->
