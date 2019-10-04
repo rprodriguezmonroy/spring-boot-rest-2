@@ -10,4 +10,4 @@
  
 </wls:weblogic-web-app>
 
-<!--- este archivo se ocupa para que se pueda desplegar en weblogic-->
+<!--- este archivo se ocupa para que se pueda desplegar en weblogic como una aplicacion war-->
